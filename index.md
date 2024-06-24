@@ -3,7 +3,7 @@ layout: archive
 entries_layout: grid
 ---
 
-<small>This is the collection of standard-issue [Infrastructure Club](https://infrastructureclub.org) tools, gadgets and items. Unsure what to get in a certain category? If it's here, it's probably good.</small>
+<small>This is the collection of standard-issue [Infrastructure Club](https://infrastructureclub.org) tools, gadgets and items. Unsure what to buy? If it's here, it's probably good.</small>
 
 {% assign posts = site.posts %}
 

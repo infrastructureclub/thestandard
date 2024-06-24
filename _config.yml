@@ -22,8 +22,8 @@ title: The Standard
 subtitle: from Infrastructure Club
 description: >- # this means to ignore newlines until "baseurl:"
   Infrastructure Club's standard-issue items in every category.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/"
+url: "https://thestandard.aeracode.org"
 github_username: andrewgodwin
 copyright: Infrastructure Club & Contributors
 copyright_url: https://infrastructureclub.org
