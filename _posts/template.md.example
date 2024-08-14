@@ -1,0 +1,23 @@
+---
+layout: single
+title: "Generic Item Category"
+tagline: "Specific Item Name"
+date: 2020-01-01 00:00:00 -0600
+author: Infraclub Member
+permalink: /generic-item-category/
+
+header:
+  overlay_image: images/posts/item-name.jpg
+  teaser: images/posts/item-name.jpg
+
+categories:
+  - Add Categories Here
+---
+
+# Specific Item Name
+
+Add some flavour text here, and a link to where you can buy it if it's hard to find.
+
+## Member Tips
+
+* Add optional extra info here
